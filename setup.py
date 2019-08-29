@@ -43,7 +43,7 @@ def auto_upgrade():
 
 
 setup(
-    name="YDLH",
+    name="<package_name>",
     version=auto_upgrade(),
     packages=find_packages(),
 )
